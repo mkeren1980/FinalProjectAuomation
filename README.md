@@ -1,5 +1,5 @@
 # 💻 My Automation Project 
-✅ This is a testing automation demo project that tests a demo site for an e-commerce website called: 
+✅ This is a testing automation project that tests a demo site for an e-commerce website called: 
 www.tech-demo.scandipwa.com
 
 ## 📖 Overview
@@ -56,7 +56,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mkeren1980/your-repo.git
+   git clone https://github.com/mkeren1980/FinalProjectAuomation.git
     ```
 
 ## 📁 Project Structure
