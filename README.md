@@ -1,5 +1,5 @@
 # 💻 My Automation Project 
-✅ This is a testing automation project that tests a demo site for an e-commerce website called: 
+✅ This is a testing automation project that tests a demo site for an e-commerce website called: </br>
 [http://www.tech-demo.scandipwa.com](https://tech-demo.scandipwa.com/)
 
 ## 📖 Overview
