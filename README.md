@@ -1,6 +1,6 @@
 # 💻 My Automation Project 
 ✅ This is a testing automation project that tests a demo site for an e-commerce website called: 
-www.tech-demo.scandipwa.com
+[httpwww.tech-demo.scandipwa.com](https://tech-demo.scandipwa.com/)
 
 ## 📖 Overview
 
