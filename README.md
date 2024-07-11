@@ -61,7 +61,15 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📁 Project Structure
 ```
-
+├───allure-results
+├───pages
+├───results
+├───tests
+│   └───__pycache__
+└───venv
+    ├───Lib
+    │   └───site-packages
+    └───Scripts
 ```
 
 Thanks for visiting my GitHub profile! 😊
