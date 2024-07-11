@@ -14,11 +14,11 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ## 📑 Technologies & Skill & Features
 | Technologies      | Description |
 | ----------- | ----------- |
-| **Python:**      | The project is developed using Python, providing a robust and widely used programming language for automation.      |
-| **Selenium WebDriver:**   | The project includes Selenium WebDriver for automating browser interactions.       |
-| **Page Object Model (POM):**   | The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.        |
-| **Allure Reports:**   | Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.        |
-| **Git:**   | Version control is managed using Git, ensuring efficient collaboration, tracking, and management of code changes.        |
+| **Python**      | The project is developed using Python, providing a robust and widely used programming language for automation.      |
+| **Selenium WebDriver**   | The project includes Selenium WebDriver for automating browser interactions.       |
+| **Page Object Model (POM)**   | The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.        |
+| **Allure Reports**   | Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.        |
+| **Git**   | Version control is managed using Git, ensuring efficient collaboration, tracking, and management of code changes.        |
 
 
 ## 📊 Reports
