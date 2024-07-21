@@ -51,7 +51,7 @@ class TestWishlist:
     def test_tc014(self):
         with allure.step("login page steps"):
             p1.log_in()
-            p1.log_in_data("mkeren4@gmail.com", "vv123456")
+            p1.log_in_data("mkeren4@gmail.com", "vv1234567")
             time.sleep(10)
         with allure.step("product page steps"):
             p3.product_card_hover(3)
@@ -87,7 +87,7 @@ class TestWishlist:
         with allure.step("login page steps"):
             p1.log_out()
             p1.log_in()
-            p1.log_in_data("mkeren4@gmail.com", "vv123456")
+            p1.log_in_data("mkeren4@gmail.com", "vv1234567")
             time.sleep(10)
             p1.log_in()
             time.sleep(2)
