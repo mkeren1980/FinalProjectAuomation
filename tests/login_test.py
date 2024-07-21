@@ -20,7 +20,7 @@ class TestLogin:
         time.sleep(2)
         with allure.step("login page steps"):
             p1.log_in()
-            p1.log_in_data("mkeren4@gmail.com", "vv123456")
+            p1.log_in_data("mkeren4@gmail.com", "vv1234567")
             allure.attach("Login with valid credentials", name="Login Step",
                           attachment_type=allure.attachment_type.TEXT)
             time.sleep(2)
@@ -73,7 +73,7 @@ class TestLogin:
     @allure.story("As a user, I want to see an error message when logging in with an incorrect password")
     def test_tc010(self):
         with allure.step("login page steps"):
-            p1.log_in_data("mkeren4@gmail.com", "123456")
+            p1.log_in_data("mkeren4@gmail.com", "1234567")
             time.sleep(2)
             allure.attach(self.driver.get_screenshot_as_png(), name="Incorrect Password Screenshot",
                           attachment_type=allure.attachment_type.PNG)
@@ -100,7 +100,7 @@ class TestLogin:
     @allure.story("As a user, I want to see an error message when logging in with an incorrect email format")
     def test_tc012(self):
         with allure.step("login page steps"):
-            p1.log_in_data("mkere", "vv123456")
+            p1.log_in_data("mkere", "vv1234567")
             allure.attach(self.driver.get_screenshot_as_png(), name="Incorrect Email Format Screenshot",
                           attachment_type=allure.attachment_type.PNG)
             assert p1.email_required_error() == "Incorrect email format!"
